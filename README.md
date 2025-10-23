@@ -2,3 +2,5 @@
 segundo commit
 tercer commit
 push desde local
+push de compañero de equipo
+
